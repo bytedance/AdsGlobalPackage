@@ -15,14 +15,14 @@ let package = Package(
     dependencies: [],
     targets: [
         .binaryTarget(name: "PAGAdSDK",
-                      url:"https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/5.4.0.7/PAGAdSDK.xcframework.zip",
-                      checksum: "d2415756626c8ead666e6c4c15ed857b1d9d72f69422b450d35c27bd49b3565c"),
+                      url:"https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/5.4.0.8/PAGAdSDK.xcframework.zip",
+                      checksum: "ad0308a0dd4c5b50ebd9f3d99f716bc185f75328038ce1b816d63bac6b8e7b00"),
         .binaryTarget(name: "BURelyAdSDK",
                       url:"https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/BURelyAdSDK/2.2.0.2/BURelyAdSDK.xcframework.zip",
                       checksum: "e009f77667dbf2bdbe5d57fa206c77e634d1e7ca370f60d56398e907a7f7701f"),
         .binaryTarget(name: "BURelyFoundation_Global",
-                      url:"https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/bu-rely-framework-sg/0.1.2.3/framework/BURelyFoundation_Global.zip",
-                      checksum: "d5b6b69d842658978cb1bb6e9e382e5ac9979eb05f0bb16d5d9fb67db1e79989"),
+                      url:"https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/bu-rely-framework-sg/0.1.2.5/framework/BURelyFoundation_Global.zip",
+                      checksum: "f6cbbf6671f48bc93eafb692797668bd366972e92fbd7440c4bb54a24b2bade6"),
         .target(
             name: "AdsGlobalPackage",
             dependencies: [
