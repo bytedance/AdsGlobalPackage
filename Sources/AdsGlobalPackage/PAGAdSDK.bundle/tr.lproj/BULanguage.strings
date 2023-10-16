@@ -9,7 +9,7 @@
 // String
 
 "Click" = "Click";
-"AD" = "AD";
+"AD" = "Reklamlar";
 "PlayConsumed" = "%.2fMB traffic will be consumed if you play it";
 "Evaluation" = "Evaluation";
 "Score" = "%@ inceleme";
@@ -40,4 +40,8 @@
 "CommitScore" = "%@ inceleme";
 "AdsClosed" = "Ads Closed";
 "PrivacyPolicy" = "Gizlilik Politikası";
+"DisplayError" = "Görüntü hatası";
+"FeedbackExplaination" = "Görüntü hatasının açıklamasını girin ve Gönder düğmesine tıklayın. Sorunun giderilmesine yardımcı olması için reklam kreatifi de Pangle'a geri gönderilecektir.";
+"Submit" = "Gönder";
+
 // Icon

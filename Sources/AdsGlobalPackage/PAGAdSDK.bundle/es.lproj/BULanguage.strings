@@ -9,7 +9,7 @@
 // String
 
 "Click" = "Clic";
-"AD" = "Anuncio";
+"AD" = "Anuncios";
 "PlayConsumed" = "Reproducir esto usará  %.2f MB de datos";
 "Evaluation" = "Evaluación";
 "Score" = "%@ reseñas";
@@ -40,4 +40,7 @@
 "CommitScore" = "%@ reseñas";
 "AdsClosed" = "Anuncios cerrados";
 "PrivacyPolicy" = "Política de privacidad";
+"DisplayError" = "Error de visualización";
+"FeedbackExplaination" = "Introduce una descripción del error de visualización y haz clic en el botón Enviar. La creatividad del anuncio se enviará también de nuevo a Pangle para intentar solucionar el problema.";
+"Submit" = "Enviar";
 // Icon

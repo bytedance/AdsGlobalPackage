@@ -40,3 +40,6 @@
 "CommitScore" = "%@個評分";
 "AdsClosed" = "廣告已關閉";
 "PrivacyPolicy" = "隱私政策";
+"DisplayError" = "顯示錯誤";
+"FeedbackExplaination" = "輸入所顯示錯誤的描述，然後按下「提交」按鈕。系統也會將廣告創意傳送回Pangle以協助解決問題。";
+"Submit" = "提交";

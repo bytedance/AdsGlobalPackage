@@ -40,4 +40,7 @@
 "CommitScore" = "%@ reviews";
 "AdsClosed" = "Ads Closed";
 "PrivacyPolicy" = "Privacy Policy";
+"DisplayError" = "Display error";
+"FeedbackExplaination" = "Enter a description of the display error, and click the Submit button. The ad creative will also be sent back to Pangle to help troubleshoot the problem.";
+"Submit" = "Submit";
 // Icon
