@@ -40,4 +40,7 @@
 "CommitScore" = "%@ ulasan";
 "AdsClosed" = "Iklan ditutup";
 "PrivacyPolicy" = "Kebijakan Privasi";
+"DisplayError" = "Kesalahan tampilan";
+"FeedbackExplaination" = "Jelaskan masalah yang terjadi lalu klik tombol 'Kirim'. Materi iklan akan dikirim kembali ke Pangle agar Anda bisa mengatasi masalahnya.";
+"Submit" = "Kirim";
 // Icon

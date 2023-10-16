@@ -40,4 +40,7 @@
 "CommitScore" = "%@ críticas";
 "AdsClosed" = "Anúncios fechados";
 "PrivacyPolicy" = "Política de Privacidade";
+"DisplayError" = "Erro de apresentação";
+"FeedbackExplaination" = "Introduza uma descrição do erro de apresentação e clique no botão Enviar. O criativo de anúncio também será remetido para a Pangle para ajudar a resolver o problema.";
+"Submit" = "Enviar";
 // Icon
