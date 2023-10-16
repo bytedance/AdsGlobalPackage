@@ -9,7 +9,7 @@
 // String
 
 "Click" = "Click";
-"AD" = "AD";
+"AD" = "Reklamy";
 "PlayConsumed" = "%.2fMB traffic will be consumed if you play it";
 "Evaluation" = "Evaluation";
 "Score" = "%@ reviews";
@@ -40,4 +40,7 @@
 "CommitScore" = "%@ reviews";
 "AdsClosed" = "Ads Closed";
 "PrivacyPolicy" = "Privacy Policy";
+"DisplayError" = "Błąd wyświetlania";
+"FeedbackExplaination" = "Opisz napotkany błąd wyświetlania i kliknij przycisk Prześlij. Również kreacja reklamowa zostanie odesłana do Pangle, aby rozwiązać problem.";
+"Submit" = "Prześlij";
 // Icon

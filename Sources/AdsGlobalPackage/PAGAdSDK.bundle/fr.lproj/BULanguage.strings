@@ -9,7 +9,7 @@
 // String
 
 "Click" = "Clic";
-"AD" = "ANNONCE";
+"AD" = "Publicité";
 "PlayConsumed" = "%.2f Mo de données  seront utilisés pour la lecture";
 "Evaluation" = "Évaluation";
 "Score" = "%@ évaluations";
@@ -40,4 +40,7 @@
 "CommitScore" = "%@ évaluations";
 "AdsClosed" = "Annonces fermées";
 "PrivacyPolicy" = "Politique de confidentialité";
+"DisplayError" = "Erreur d'affichage";
+"FeedbackExplaination" = "Saisissez une description de l'erreur d'affichage et cliquez sur le bouton Envoyer. Le contenu publicitaire sera également renvoyé à Pangle afin d'aider à résoudre le problème.";
+"Submit" = "Envoyer";
 // Icon
