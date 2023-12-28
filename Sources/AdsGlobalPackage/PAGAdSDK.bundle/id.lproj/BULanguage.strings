@@ -9,7 +9,7 @@
 // String
 
 "Click" = "Klik";
-"AD" = "IKLAN";
+"AD" = "Iklan";
 "PlayConsumed" = "Memutar ini akan  menghabiskan data %.2f MB";
 "Evaluation" = "Evaluasi";
 "Score" = "%@ ulasan";

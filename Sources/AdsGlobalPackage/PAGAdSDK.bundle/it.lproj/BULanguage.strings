@@ -9,7 +9,7 @@
 // String
 
 "Click" = "Clic";
-"AD" = "Annuncio";
+"AD" = "Pubblicità";
 "PlayConsumed" = "La riproduzione  utilizzerà %.2f MB di dati";
 "Evaluation" = "Valutazione";
 "Score" = "%@ recensioni";
