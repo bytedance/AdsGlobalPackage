@@ -43,4 +43,5 @@
 "DisplayError" = "Erreur d'affichage";
 "FeedbackExplaination" = "Saisissez une description de l'erreur d'affichage et cliquez sur le bouton Envoyer. Le contenu publicitaire sera également renvoyé à Pangle afin d'aider à résoudre le problème.";
 "Submit" = "Envoyer";
+"MutiNumAD" = "annonce %d sur %d";
 // Icon

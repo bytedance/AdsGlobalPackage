@@ -43,4 +43,5 @@
 "DisplayError" = "Anzeigefehler";
 "FeedbackExplaination" = "Bitte beschreibe den Anzeigefehler und klicke auf die Schaltfläche „Absenden“. Das Werbemittel wird zur Fehlerbehebung außerdem an Pangle zurückgesendet.";
 "Submit" = "Absenden";
+"MutiNumAD" = "Anzeige %d von %d";
 // Icon

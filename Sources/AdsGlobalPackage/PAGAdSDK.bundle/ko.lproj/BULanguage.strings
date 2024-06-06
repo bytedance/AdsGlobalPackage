@@ -43,4 +43,5 @@
 "DisplayError" = "표시 오류";
 "FeedbackExplaination" = "표시 오류에 대한 설명을 입력하고 제출 버튼을 클릭하세요. 또한 문제 해결을 지원하기 위해 광고 크리에이티브가 Pangle에 다시 전송됩니다.";
 "Submit" = "제출";
+"MutiNumAD" = "%d의 광고 %d";
 // Icon
