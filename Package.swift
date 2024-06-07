@@ -4,13 +4,13 @@
 import PackageDescription
 
 let package = Package(
-    name: "AdsGlobalSPM",
+    name: "AdsGlobalPackage",
     defaultLocalization: "en",
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "AdsGlobalSPM",
-            targets: ["AdsGlobalSPM"]),
+            name: "AdsGlobalPackage",
+            targets: ["AdsGlobalPackage"]),
     ],
     dependencies: [],
     targets: [
@@ -20,9 +20,8 @@ let package = Package(
         .binaryTarget(name: "BURelyFoundation_Global",
                       url:"https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/bu-rely-framework-sg/0.3.2.0/framework/BURelyFoundation_Global.zip",
                       checksum: "761fd58c1ffde9dff6eb31f3144110dc290edad6d6a00a5a3188e83a5dbed014"),
-        
         .target(
-            name: "AdsGlobalSPM",
+            name: "AdsGlobalPackage",
             dependencies: [
                 .target(name: "PAGAdSDK"),
                 .target(name: "BURelyFoundation_Global")
@@ -57,7 +56,7 @@ let package = Package(
                 .linkedLibrary("c++"),
             ]),
         .testTarget(
-            name: "AdsGlobalSPMTests",
-            dependencies: ["AdsGlobalSPM"]),
+            name: "AdsGlobalPackageTests",
+            dependencies: ["AdsGlobalPackage"]),
     ]
 )
