@@ -43,4 +43,5 @@
 "DisplayError" = "Display error";
 "FeedbackExplaination" = "Enter a description of the display error, and click the Submit button. The ad creative will also be sent back to Pangle to help troubleshoot the problem.";
 "Submit" = "Submit";
+"MutiNumAD" = "ad %d of %d";
 // Icon

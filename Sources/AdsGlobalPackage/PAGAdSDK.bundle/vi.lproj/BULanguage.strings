@@ -43,3 +43,4 @@
 "DisplayError" = "Lỗi hiển thị";
 "FeedbackExplaination" = "Nhập mô tả về lỗi hiển thị và nhấp vào nút Gửi. Mẫu quảng cáo cũng sẽ được gửi lại cho Pangle để hỗ trợ khắc phục sự cố.";
 "Submit" = "Gửi";
+"MutiNumAD" = "quảng cáo %d/%d";
