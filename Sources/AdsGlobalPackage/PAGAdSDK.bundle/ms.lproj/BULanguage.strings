@@ -43,4 +43,5 @@
 "DisplayError" = "Ralat paparan";
 "FeedbackExplaination" = "Masukkan perihalan ralat paparan dan klik butang Serahkan. Kreatif iklan tersebut juga akan dihantar kembali ke Pangle untuk membantu menyelesaikan masalah.";
 "Submit" = "Serahkan";
+"MutiNumAD" = "iklan %d daripada %d";
 // Icon

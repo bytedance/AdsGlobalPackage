@@ -43,3 +43,4 @@
 "DisplayError" = "顯示錯誤";
 "FeedbackExplaination" = "輸入所顯示錯誤的描述，然後按下「提交」按鈕。系統也會將廣告創意傳送回Pangle以協助解決問題。";
 "Submit" = "提交";
+"MutiNumAD" = "第 %d 則廣告，共 %d 則";

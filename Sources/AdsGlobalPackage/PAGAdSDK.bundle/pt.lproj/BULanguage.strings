@@ -43,4 +43,5 @@
 "DisplayError" = "Erro de apresentação";
 "FeedbackExplaination" = "Introduza uma descrição do erro de apresentação e clique no botão Enviar. O criativo de anúncio também será remetido para a Pangle para ajudar a resolver o problema.";
 "Submit" = "Enviar";
+"MutiNumAD" = "anúncio %d de %d";
 // Icon
