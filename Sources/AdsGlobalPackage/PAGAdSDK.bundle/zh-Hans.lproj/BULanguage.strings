@@ -43,4 +43,5 @@
 "DisplayError" = "显示异常";
 "FeedbackExplaination" = "请填写广告显示异常的描述，并点击提交按钮进行提交，同时我们会附带该广告素材信息一起回传以便于Pangle排查问题";
 "Submit" = "提交";
+"MutiNumAD" = "广告 %d/%d";
 // Icon

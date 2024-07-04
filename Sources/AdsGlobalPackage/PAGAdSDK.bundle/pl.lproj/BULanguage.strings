@@ -43,4 +43,5 @@
 "DisplayError" = "Błąd wyświetlania";
 "FeedbackExplaination" = "Opisz napotkany błąd wyświetlania i kliknij przycisk Prześlij. Również kreacja reklamowa zostanie odesłana do Pangle, aby rozwiązać problem.";
 "Submit" = "Prześlij";
+"MutiNumAD" = "Reklama %d z %d";
 // Icon

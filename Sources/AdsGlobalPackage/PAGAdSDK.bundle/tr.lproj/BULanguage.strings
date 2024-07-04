@@ -43,5 +43,5 @@
 "DisplayError" = "Görüntü hatası";
 "FeedbackExplaination" = "Görüntü hatasının açıklamasını girin ve Gönder düğmesine tıklayın. Sorunun giderilmesine yardımcı olması için reklam kreatifi de Pangle'a geri gönderilecektir.";
 "Submit" = "Gönder";
-
+"MutiNumAD" = "reklam %d / %d";
 // Icon
