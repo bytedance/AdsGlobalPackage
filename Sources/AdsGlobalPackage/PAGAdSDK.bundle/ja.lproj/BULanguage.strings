@@ -43,4 +43,5 @@
 "DisplayError" = "表示エラーが発生しました";
 "FeedbackExplaination" = "表示エラーの詳細を入力し、送信ボタンをクリックしてください。広告クリエイティブは、問題のトラブルシューティングのためにPangleに送り返されます。";
 "Submit" = "送信";
+"MutiNumAD" = "広告 %d / %d";
 // Icon

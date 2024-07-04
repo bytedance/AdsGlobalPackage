@@ -43,4 +43,5 @@
 "DisplayError" = "Error de visualización";
 "FeedbackExplaination" = "Introduce una descripción del error de visualización y haz clic en el botón Enviar. La creatividad del anuncio se enviará también de nuevo a Pangle para intentar solucionar el problema.";
 "Submit" = "Enviar";
+"MutiNumAD" = "anuncio %d de %d";
 // Icon

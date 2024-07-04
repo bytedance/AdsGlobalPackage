@@ -43,3 +43,4 @@
 "DisplayError" = "Errore di visualizzazione";
 "FeedbackExplaination" = "Inserisci una descrizione dell’errore di visualizzazione e fai clic sul pulsante Invia. La creatività dell’annuncio verrà inoltre rispedita a Pangle per risolvere il problema.";
 "Submit" = "Invia";
+"MutiNumAD" = "annuncio %d di %d";
