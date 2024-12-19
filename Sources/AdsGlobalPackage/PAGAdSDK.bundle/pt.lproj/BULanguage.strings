@@ -44,4 +44,15 @@
 "FeedbackExplaination" = "Introduza uma descrição do erro de apresentação e clique no botão Enviar. O criativo de anúncio também será remetido para a Pangle para ajudar a resolver o problema.";
 "Submit" = "Enviar";
 "MutiNumAD" = "anúncio %d de %d";
+"LikeThisAd" = "Gostou deste anúncio?";
+"Good" = "Bom";
+"NotBad" = "Aceitável";
+"Bad" = "Ruim";
+"PleaseSelectReason" = "Selecione um motivo";
+"TellUsHowThisAdMadeYouFell" = "Conte-nos o que achou deste anúncio";
+"ReportThisAdToHelpUsImprove" = "Denuncie este anúncio para nos ajudar a melhorar";
+"AddTheResonYouThinkBad" = "Adicione o motivo pelo qual você acha que é ruim";
+"Done" = "Concluído";
+"OhterReasons" = "Outros motivos";
+
 // Icon

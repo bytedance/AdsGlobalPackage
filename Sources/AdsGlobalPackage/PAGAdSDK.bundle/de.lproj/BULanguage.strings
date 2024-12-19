@@ -44,4 +44,14 @@
 "FeedbackExplaination" = "Bitte beschreibe den Anzeigefehler und klicke auf die Schaltfläche „Absenden“. Das Werbemittel wird zur Fehlerbehebung außerdem an Pangle zurückgesendet.";
 "Submit" = "Absenden";
 "MutiNumAD" = "Anzeige %d von %d";
+"LikeThisAd" = "Gefällt dir diese Anzeige?";
+"Good" = "Gut";
+"NotBad" = "Nicht schlecht";
+"Bad" = "Schlecht";
+"PleaseSelectReason" = "Bitte Grund auswählen";
+"TellUsHowThisAdMadeYouFell" = "Wie ist das Gefühl, das diese Anzeige bei dir auslöst?";
+"ReportThisAdToHelpUsImprove" = "Melde diese Anzeige und hilf uns, noch besser zu werden.";
+"AddTheResonYouThinkBad" = "Bitte erkläre, warum du dieser Meinung bist.";
+"Done" = "Fertig";
+"OhterReasons" = "Sonstige Gründe";
 // Icon

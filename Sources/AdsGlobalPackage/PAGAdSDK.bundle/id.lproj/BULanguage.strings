@@ -44,4 +44,14 @@
 "FeedbackExplaination" = "Jelaskan masalah yang terjadi lalu klik tombol 'Kirim'. Materi iklan akan dikirim kembali ke Pangle agar Anda bisa mengatasi masalahnya.";
 "Submit" = "Kirim";
 "MutiNumAD" = "iklan %d dari %d";
+"LikeThisAd" = "Suka iklan ini?";
+"Good" = "Baik";
+"NotBad" = "Biasa";
+"Bad" = "Buruk";
+"PleaseSelectReason" = "Harap pilih alasan";
+"TellUsHowThisAdMadeYouFell" = "Beri tahu kami kesan Anda";
+"ReportThisAdToHelpUsImprove" = "Berikan masukan untuk iklan ini agar kami bisa meningkatkan kualitas iklan";
+"AddTheResonYouThinkBad" = "Sebutkan alasan konten ini buruk";
+"Done" = "Selesai";
+"OhterReasons" = "Alasan lainnya";
 // Icon

@@ -44,3 +44,13 @@
 "FeedbackExplaination" = "Inserisci una descrizione dell’errore di visualizzazione e fai clic sul pulsante Invia. La creatività dell’annuncio verrà inoltre rispedita a Pangle per risolvere il problema.";
 "Submit" = "Invia";
 "MutiNumAD" = "annuncio %d di %d";
+"LikeThisAd" = "Ti piace questo annuncio?";
+"Good" = "Bene";
+"NotBad" = "Né bene né male";
+"Bad" = "Male";
+"PleaseSelectReason" = "Seleziona un motivo";
+"TellUsHowThisAdMadeYouFell" = "Come ti ha fatto sentire questo annuncio?";
+"ReportThisAdToHelpUsImprove" = "Segnala questo annuncio per aiutarci a migliorare";
+"AddTheResonYouThinkBad" = "Aggiungi un motivo specifico";
+"Done" = "Fine";
+"OhterReasons" = "Altri motivi";

@@ -15,16 +15,12 @@ let package = Package(
     dependencies: [],
     targets: [
         .binaryTarget(name: "PAGAdSDK",
-                      url:"https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/6.2.0.9/PAGAdSDK.xcframework.zip",
+                      url:"https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/6.3.0.7/PAGAdSDK.xcframework.zip",
                       checksum: "783b788b787740d767fa6c0ea61fc12e5cce6acea67dc0c80fdea9c01220636e"),
-        .binaryTarget(name: "BURelyFoundation_Global",
-                      url:"https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/bu-rely-framework-sg/1.0.0.6/framework/BURelyFoundation_Global.zip",
-                      checksum: "7cc2a8c818840f088ae57d8b6905dd0124b5a4836e565894c2f301b9ac17417b"),
         .target(
             name: "AdsGlobalPackage",
             dependencies: [
                 .target(name: "PAGAdSDK"),
-                .target(name: "BURelyFoundation_Global")
             ],
             resources: [.copy("PAGAdSDK.bundle")],
             linkerSettings: [
