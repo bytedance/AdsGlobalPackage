@@ -44,3 +44,13 @@
 "FeedbackExplaination" = "Nhập mô tả về lỗi hiển thị và nhấp vào nút Gửi. Mẫu quảng cáo cũng sẽ được gửi lại cho Pangle để hỗ trợ khắc phục sự cố.";
 "Submit" = "Gửi";
 "MutiNumAD" = "quảng cáo %d/%d";
+"LikeThisAd" = "Bạn thích quảng cáo này chứ?";
+"Good" = "Tuyệt vời";
+"NotBad" = "Không tệ lắm";
+"Bad" = "Tồi tệ";
+"PleaseSelectReason" = "Vui lòng chọn lý do";
+"TellUsHowThisAdMadeYouFell" = "Hãy chia sẻ cảm nhận của bạn về quảng cáo này";
+"ReportThisAdToHelpUsImprove" = "Báo cáo quảng cáo này để giúp chúng tôi cải thiện";
+"AddTheResonYouThinkBad" = "Thêm lý do khiến bạn nghĩ đây là nội dung tệ";
+"Done" = "Xong";
+"OhterReasons" = "Lý do khác";

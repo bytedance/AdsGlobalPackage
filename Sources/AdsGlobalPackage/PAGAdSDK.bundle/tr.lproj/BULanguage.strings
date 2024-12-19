@@ -44,4 +44,14 @@
 "FeedbackExplaination" = "Görüntü hatasının açıklamasını girin ve Gönder düğmesine tıklayın. Sorunun giderilmesine yardımcı olması için reklam kreatifi de Pangle'a geri gönderilecektir.";
 "Submit" = "Gönder";
 "MutiNumAD" = "reklam %d / %d";
+"LikeThisAd" = "Bu reklamı beğendiniz mi?";
+"Good" = "İyi";
+"NotBad" = "Fena değil";
+"Bad" = "Kötü";
+"PleaseSelectReason" = "Lütfen nedenini seçin";
+"TellUsHowThisAdMadeYouFell" = "Bu reklamın sizi nasıl hissettirdiğini bize anlatın";
+"ReportThisAdToHelpUsImprove" = "İyileştirmemize yardımcı olmak için bu reklamı bildirin";
+"AddTheResonYouThinkBad" = "Kötü olduğunu düşünme nedeninizi ekleyin";
+"Done" = "Bitti";
+"OhterReasons" = "Diğer nedenler";
 // Icon

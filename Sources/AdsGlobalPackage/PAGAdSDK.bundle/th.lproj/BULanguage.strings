@@ -44,3 +44,13 @@
 "FeedbackExplaination" = "โปรดอธิบายข้อผิดพลาดในการแสดงผล และคลิกปุ่มส่ง โดยชิ้นงานโฆษณาจะถูกส่งกลับไปที่ Pangle เพื่อใช้ในการแก้ปัญหา";
 "Submit" = "ส่ง";
 "MutiNumAD" = "โฆษณา %d จาก %d";
+"LikeThisAd" = "ชอบโฆษณานี้หรือไม่";
+"Good" = "ดี";
+"NotBad" = "ไม่แย่";
+"Bad" = "แย่";
+"PleaseSelectReason" = "โปรดเลือกเหตุผล";
+"TellUsHowThisAdMadeYouFell" = "บอกเราว่าโฆษณานี้ทำให้คุณรู้สึกอย่างไร";
+"ReportThisAdToHelpUsImprove" = "รายงานโฆษณานี้เพื่อช่วยเราปรับปรุง";
+"AddTheResonYouThinkBad" = "เพิ่มเหตุผลที่คุณคิดว่าเป็นสิ่งที่ไม่ดี";
+"Done" = "เสร็จสิ้น";
+"OhterReasons" = "เหตุผลอื่นๆ";

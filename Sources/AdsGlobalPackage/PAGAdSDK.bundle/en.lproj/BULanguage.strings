@@ -44,4 +44,14 @@
 "FeedbackExplaination" = "Enter a description of the display error, and click the Submit button. The ad creative will also be sent back to Pangle to help troubleshoot the problem.";
 "Submit" = "Submit";
 "MutiNumAD" = "ad %d of %d";
+"LikeThisAd" = "Like this ad?";
+"Good" = "Good";
+"NotBad" = "Not bad";
+"Bad" = "Bad";
+"PleaseSelectReason" = "Please select reason";
+"TellUsHowThisAdMadeYouFell" = "Tell us how this ad made you feel";
+"ReportThisAdToHelpUsImprove" = "Report this ad to help us improve";
+"AddTheResonYouThinkBad" = "Add the reason you think bad";
+"Done" = "Done";
+"OhterReasons" = "Other reasons";
 // Icon

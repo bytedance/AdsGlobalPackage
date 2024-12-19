@@ -42,6 +42,16 @@
 "PrivacyPolicy" = "プライバシーポリシー";
 "DisplayError" = "表示エラーが発生しました";
 "FeedbackExplaination" = "表示エラーの詳細を入力し、送信ボタンをクリックしてください。広告クリエイティブは、問題のトラブルシューティングのためにPangleに送り返されます。";
-"Submit" = "送信";
+"Submit" = "送信する";
 "MutiNumAD" = "広告 %d / %d";
+"LikeThisAd" = "この広告が気に入りましたか";
+"Good" = "良い";
+"NotBad" = "悪くない";
+"Bad" = "悪い";
+"PleaseSelectReason" = "理由を選択してください";
+"TellUsHowThisAdMadeYouFell" = "この広告を見てどう思いましたか";
+"ReportThisAdToHelpUsImprove" = "サービス向上のため、この広告を報告してください";
+"AddTheResonYouThinkBad" = "悪いと思う理由を追加してください";
+"Done" = "完了";
+"OhterReasons" = "その他の理由";
 // Icon

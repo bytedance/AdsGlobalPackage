@@ -44,4 +44,14 @@
 "FeedbackExplaination" = "Opisz napotkany błąd wyświetlania i kliknij przycisk Prześlij. Również kreacja reklamowa zostanie odesłana do Pangle, aby rozwiązać problem.";
 "Submit" = "Prześlij";
 "MutiNumAD" = "Reklama %d z %d";
+"LikeThisAd" = "Podoba Ci się ta reklama?";
+"Good" = "Dobrze";
+"NotBad" = "Nieźle";
+"Bad" = "Źle";
+"PleaseSelectReason" = "Wybierz powód";
+"TellUsHowThisAdMadeYouFell" = "Opowiedz nam, jak się czujesz po zobaczeniu tej reklamy";
+"ReportThisAdToHelpUsImprove" = "Zgłoś tę reklamę, abyśmy mogli zmieniać się na lepsze";
+"AddTheResonYouThinkBad" = "Podaj powód, dla którego tak sądzisz";
+"Done" = "Gotowe";
+"OhterReasons" = "Inne powody";
 // Icon
