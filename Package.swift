@@ -15,8 +15,8 @@ let package = Package(
     dependencies: [],
     targets: [
         .binaryTarget(name: "PAGAdSDK",
-                      url: "https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/7.2.0.5/PAGAdSDK.xcframework.zip",
-                      checksum: "bd793ed719a3a15b28d60c587213fc12537c13946935c030f0a35abd89d41041"),
+                      url: "https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/7.4.1.1/PAGAdSDK.xcframework.zip",
+                      checksum: "1d9592bc62480fa106d22a74c427305efdd32b63df46d8485fd42f73f90798bc"),
         .target(
             name: "AdsGlobalPackage",
             dependencies: [
