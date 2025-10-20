@@ -10,23 +10,17 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "AdsGlobalPackage",
-            targets: ["PAGAdSDK", "TikTokBusinessSDKFramework"]),
-        .library(
-            name: "PAGAdSDK",
-            targets: ["PAGAdSDK"]),
+            targets: ["AdsGlobalPackage"]),
     ],
     dependencies: [],
     targets: [
-        .binaryTarget(name: "PAGAdSDKFramework",
-                      url: "https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/7.8.0.0/PAGAdSDK.xcframework.zip",
-                      checksum: "705e6156c02e73d3aca475375492c45ff96f591d248589a8c3faeb6443317b86"),
-        .binaryTarget(name: "TikTokBusinessSDKFramework",
-                      url: "HOLD_TIKTOKBUSINESSSDK_URL",
-                      checksum: "HOLD_TIKTOKBUSINESSSDK_CHECKSUM"),
+        .binaryTarget(name: "PAGAdSDK",
+                      url: "https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/7.6.0.6/PAGAdSDK.xcframework.zip",
+                      checksum: "f2ae0f02e002fa49d4ba5fab0e9300098b23514c786fb90ba60f20a86f9bdb40"),
         .target(
-            name: "PAGAdSDK",
+            name: "AdsGlobalPackage",
             dependencies: [
-                .target(name: "PAGAdSDKFramework"),
+                .target(name: "PAGAdSDK"),
             ],
             resources: [.copy("PAGAdSDK.bundle")],
             linkerSettings: [
@@ -58,5 +52,8 @@ let package = Package(
                 .linkedLibrary("c++abi"),
                 .linkedLibrary("c++"),
             ]),
+        .testTarget(
+            name: "AdsGlobalPackageTests",
+            dependencies: ["AdsGlobalPackage"]),
     ]
 )
