@@ -11,20 +11,22 @@ let package = Package(
         .library(
             name: "AdsGlobalPackage",
             targets: ["AdsGlobalPackage"]),
+        .library(
+            name: "TikTokBusinessSDK",
+            targets: ["TikTokBusinessSDK", "AdsGlobalPackage"]),
     ],
     dependencies: [],
     targets: [
         .binaryTarget(name: "PAGAdSDK",
-                      url:"https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/6.1.0.3/PAGAdSDK.xcframework.zip",
-                      checksum: "5f11480b67e4f6dac93219641a2674b6a2422ea6537f39d8a9bea380e544c031"),
-        .binaryTarget(name: "BURelyFoundation_Global",
-                      url:"https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/bu-rely-framework-sg/1.0.0.0/framework/BURelyFoundation_Global.zip",
-                      checksum: "5b837e4b2ee03497ba4ba23ca482e36b0d87cb2c1c02530c0d3803cc51970ee5"),
+                      url: "https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/8.2.0.1/PAGAdSDK.xcframework.zip",
+                      checksum: "7127c4c6264c7fb21a439883d25d5b985d454ada9bdd0dc4d279b4c6151208fa"),
+        .binaryTarget(name: "TikTokBusinessSDK",
+                      url: "https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/8.2.0.1/TikTokBusinessSDK.xcframework.zip",
+                      checksum: "81dd7feac6ec38af4c8c5e4a012d6b4754f2b9b9da501153bcb09f51d73c2b6c"),
         .target(
             name: "AdsGlobalPackage",
             dependencies: [
                 .target(name: "PAGAdSDK"),
-                .target(name: "BURelyFoundation_Global")
             ],
             resources: [.copy("PAGAdSDK.bundle")],
             linkerSettings: [
@@ -44,6 +46,7 @@ let package = Package(
                 .linkedFramework("JavaScriptCore"),
                 .linkedFramework("CoreGraphics"),
                 .linkedFramework("Security"),
+                .linkedFramework("DeviceCheck"),
                 .linkedFramework("CoreML"),
                 .linkedFramework("AppTrackingTransparency"),
                 .linkedLibrary("z"),
