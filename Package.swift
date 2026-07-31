@@ -18,11 +18,11 @@ let package = Package(
     dependencies: [],
     targets: [
         .binaryTarget(name: "PAGAdSDK",
-                      url: "https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/8.2.0.7/PAGAdSDK.xcframework.zip",
-                      checksum: "016a6c586e5d09d46dfad89ef1ce38d851e65f2cc13f0e45e21ed3efd763a1bb"),
+                      url: "https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/8.1.1.2/PAGAdSDK.xcframework.zip",
+                      checksum: "7dceb0785693796484a519db78de670da8d33c9fcfccd5af83eec3bc1f36fc57"),
         .binaryTarget(name: "TikTokBusinessSDK",
-                      url: "https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/8.2.0.7/TikTokBusinessSDK.xcframework.zip",
-                      checksum: "4b2553879344fc0033091d8d4cc3fdea193dddd9538dd77f43e7799d009c8aed"),
+                      url: "https://sf16-fe-tos-sg.i18n-pglstatp.com/obj/pangle-sdk-static-va/8.1.1.2/TikTokBusinessSDK.xcframework.zip",
+                      checksum: "9551df22bbd8dcc216414a55f9b6ee62c9e8df0e86b20e88475a8d9799a82c27"),
         .target(
             name: "AdsGlobalPackage",
             dependencies: [
